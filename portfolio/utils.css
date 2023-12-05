@@ -1,0 +1,26 @@
+.about{
+    background-color:rgb(66, 32, 95);
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    margin-top: 4%;
+}
+.nav{
+   
+    font-size: 20px;
+    color:rgb(51, 4, 96);
+}
+.nav1{
+   
+    font-size: 20px;
+    color:rgb(51, 4, 96);
+}
+
+body{
+    background-color: rgb(223, 217, 230);
+}
+.button{
+    border-radius: 2.5px;
+    font-weight: bold;
+    border-color: blueviolet;
+}
